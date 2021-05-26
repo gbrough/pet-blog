@@ -1,5 +1,16 @@
 .important {
   color: green;
+  border: solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.dog1 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.dog3 {
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 .aboutme {
   color: orange;
