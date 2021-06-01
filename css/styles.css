@@ -1,5 +1,8 @@
+.black-background {
+  background-color: black;
+}
+
 .important {
-  color: green;
   border: solid black;
   margin-top: 100px;
   margin-bottom: 100px;
@@ -33,9 +36,7 @@ img {
   margin-right: auto;
   
 }
-body {
-background-color: rgb(112, 167, 201);
-}
+
 ul {
   align: center;
 }
